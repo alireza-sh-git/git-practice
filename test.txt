@@ -1,3 +1,4 @@
 Hello!
 Added a very important feature
+Added a cool feature
 Hey we fixed a bug
